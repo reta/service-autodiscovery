@@ -1,4 +1,4 @@
-service-autodiscovery using Apache ZooKeeper
+Service autodiscovery using Apache ZooKeeper
 ==============
 
 ### Run server, call service
